@@ -1,0 +1,53 @@
+Rillaboom @ Miracle Seed  
+Ability: Grassy Surge  
+EVs: 32 HP / 32 Atk / 2 SpD  
+Adamant Nature  
+- Fake Out  
+- Grassy Glide  
+- Wood Hammer  
+- U-turn  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+EVs: 32 HP / 14 Def / 20 SpD  
+Careful Nature  
+- Fake Out  
+- Parting Shot  
+- Flare Blitz  
+- Throat Chop  
+
+Salamence @ Salamencite  
+Ability: Intimidate  
+EVs: 2 HP / 32 SpA / 32 Spe  
+Timid Nature  
+- Protect  
+- Hyper Voice  
+- Tailwind  
+- Draco Meteor  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+EVs: 2 HP / 32 SpA / 32 Spe  
+Timid Nature  
+- Protect  
+- Shadow Ball  
+- Sludge Bomb  
+- Perish Song  
+
+Primarina @ Leftovers  
+Ability: Liquid Voice  
+EVs: 32 HP / 32 SpA / 2 SpD  
+Modest Nature  
+- Hyper Voice  
+- Protect  
+- Moonblast  
+- Calm Mind  
+
+Maushold @ Wide Lens  
+Ability: Friend Guard  
+EVs: 2 HP / 32 Atk / 32 Spe  
+Jolly Nature  
+- Follow Me  
+- Protect  
+- Population Bomb  
+- Super Fang
