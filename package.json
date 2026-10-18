@@ -1,0 +1,31 @@
+{
+  "name": "pokemon-champions-bot",
+  "version": "0.1.0",
+  "description": "Team builder and battle AI for Pok\u00e9mon Champions (VGC doubles), built on the Pok\u00e9mon Showdown simulator.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "champ": "tsx src/cli/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "bench": "tsx scripts/bench.ts"
+  },
+  "dependencies": {
+    "@smogon/calc": "^0.12.0",
+    "https-proxy-agent": "^7.0.6",
+    "pokemon-showdown": "^0.11.11",
+    "ws": "^8.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/ws": "^8.18.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}
